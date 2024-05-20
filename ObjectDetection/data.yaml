@@ -1,0 +1,70 @@
+path: /home/paulo/GERALD_YOLO/
+train: images/train
+val: images/val
+test: images/test
+
+#nc: 62  # number of classes
+names: 
+  0: Hp_0
+  1: Hp_0_HV
+  2: Hp_0_Ks
+  3: Hp_0_Sh
+  4: Hp_1
+  5: Hp_2
+  6: Vr_0
+  7: Vr_1
+  8: Vr_2
+  9: Ks_1
+  10: Ks_2
+  11: Mast_Sign_WRW
+  12: Mast_Sign_WYWYW
+  13: Mast_Sign_Y_Triangle
+  14: El_6
+  15: Ne_1
+  16: Ne_2
+  17: Ne_3_1
+  18: Ne_3_2
+  19: Ne_3_3
+  20: Ne_3_4
+  21: Ne_3_5
+  22: Ne_4
+  23: Ne_5
+  24: Ne_6
+  25: Ne_7a
+  26: Ne_7b
+  27: Lf_2
+  28: Lf_3
+  29: Lf_6
+  30: Lf_7
+  31: Ra_10
+  32: Sh_0
+  33: Sh_1
+  34: Sh_2
+  35: So_20_Right
+  36: So_20_Left
+  37: Wn_1
+  38: Wn_2
+  39: Zs_2
+  40: Zs_2v
+  41: Zs_3
+  42: Zs_3v
+  43: Zs_6
+  44: Zs_Off
+  45: Hectometer_Sign
+  46: ICE
+  47: LZB
+  48: Platform_Display
+  49: Platform_Track_Sign
+  50: Platform_Warn_Sign
+  51: Platform_Text_Sign
+  52: Ride_Indicator_Off
+  53: Ride_Indicator_1
+  54: Ride_Indicator_2
+  55: Sign_Back
+  56: Signal_Back
+  57: Signal_Off
+  58: Signal_Identifier_Sign
+  59: Signal_Invalid
+  60: Traffic_Sign
+  61: Traffic_Light
+
